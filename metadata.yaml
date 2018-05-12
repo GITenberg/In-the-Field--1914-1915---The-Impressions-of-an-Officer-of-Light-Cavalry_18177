@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7854'
     url: http://www.gutenberg.org/2009/agents/7854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18177#In-the-Field--1914-1915---The-Impressions-of-an-Officer-of-Light-Cavalry
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-04-14'
 gutenberg_type: Text
