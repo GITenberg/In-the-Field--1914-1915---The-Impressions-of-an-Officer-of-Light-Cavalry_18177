@@ -1,0 +1,28 @@
+_repo: In-the-Field--1914-1915---The-Impressions-of-an-Officer-of-Light-Cavalry_18177
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dupont, Marcel
+    birthdate: 1879
+    deathdate: 1964
+    gutenberg_agent_id: '7854'
+    url: http://www.gutenberg.org/2009/agents/7854
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18177'
+  lccn: '16010883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, French'
+title: 'In the Field (1914-1915): The Impressions of an Officer of Light Cavalry'
+url: http://www.gutenberg.org/ebooks/18177
